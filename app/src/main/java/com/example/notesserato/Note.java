@@ -12,6 +12,7 @@ public class Note {
     int id;
     String note;
     Date created;
+    // add another variable
 
     public Note(String note) {
         this.note = note;
